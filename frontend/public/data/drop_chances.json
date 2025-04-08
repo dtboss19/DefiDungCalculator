@@ -1,0 +1,25 @@
+{
+  "timestamp": "2025-04-08T16:33:55.415477",
+  "dungeon_specific": {
+    "CrimsonHall": {
+      "name": "Crimson Hall",
+      "drops": []
+    },
+    "FrostboundKeep": {
+      "name": "Frostbound Keep",
+      "drops": []
+    },
+    "AncientTombs": {
+      "name": "Ancient Tombs",
+      "drops": []
+    },
+    "ThievesDen": {
+      "name": "Thieves Den",
+      "drops": []
+    },
+    "ForgottenCrossroads": {
+      "name": "Forgotten Grove",
+      "drops": []
+    }
+  }
+}

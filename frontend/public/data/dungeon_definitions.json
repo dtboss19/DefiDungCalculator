@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-04-08T16:33:55.415028",
+  "data": [
+    {
+      "id": "ForgottenCrossroads",
+      "name": "Forgotten Grove",
+      "durationInSeconds": 900,
+      "bossName": "Grimhowl",
+      "bossAttunement": "Fire",
+      "bossImage": "https://uploads.defidungeons.gg/img/dd-dungeon-boss/wolf-boss.png",
+      "keyFungibleAssetId": "ForgottenGroveKey",
+      "recommendedCombatLevel": 1,
+      "keyFungibleAsset": {
+        "id": "ForgottenGroveKey",
+        "name": "Forgotten Grove Key",
+        "image": ""
+      },
+      "dungeonBossKillChance": "0.7"
+    },
+    {
+      "id": "ThievesDen",
+      "name": "Thieves Den",
+      "durationInSeconds": 900,
+      "bossName": "Blackfang",
+      "bossAttunement": "Fire",
+      "bossImage": "https://uploads.defidungeons.gg/img/dd-dungeon-boss/soggy-sewers-boss.png",
+      "keyFungibleAssetId": "ThievesDenKey",
+      "recommendedCombatLevel": 30,
+      "keyFungibleAsset": {
+        "id": "ThievesDenKey",
+        "name": "Thieves Den Key",
+        "image": ""
+      },
+      "dungeonBossKillChance": "0.65"
+    },
+    {
+      "id": "AncientTombs",
+      "name": "Ancient Tombs",
+      "durationInSeconds": 900,
+      "bossName": "Abyssal Wraith",
+      "bossAttunement": "Fire",
+      "bossImage": "https://uploads.defidungeons.gg/img/dd-dungeon-boss/grooveey-graveyard-boss.png",
+      "keyFungibleAssetId": "AncientTombsKey",
+      "recommendedCombatLevel": 60,
+      "keyFungibleAsset": {
+        "id": "AncientTombsKey",
+        "name": "Ancient Tombs Key",
+        "image": ""
+      },
+      "dungeonBossKillChance": "0.6"
+    },
+    {
+      "id": "FrostboundKeep",
+      "name": "Frostbound Keep",
+      "durationInSeconds": 900,
+      "bossName": "Frostbane",
+      "bossAttunement": "Fire",
+      "bossImage": "https://uploads.defidungeons.gg/img/dd-dungeon-boss/frostbound-keep-boss.png",
+      "keyFungibleAssetId": "FrostboundKeepKey",
+      "recommendedCombatLevel": 80,
+      "keyFungibleAsset": {
+        "id": "FrostboundKeepKey",
+        "name": "Frostbound Keep Key",
+        "image": ""
+      },
+      "dungeonBossKillChance": "0.55"
+    },
+    {
+      "id": "CrimsonHall",
+      "name": "Crimson Hall",
+      "durationInSeconds": 900,
+      "bossName": "The Inquisitor",
+      "bossAttunement": "Fire",
+      "bossImage": "https://uploads.defidungeons.gg/img/dd-dungeon-boss/crimson-hall-boss.png",
+      "keyFungibleAssetId": "CrimsonHallsKey",
+      "recommendedCombatLevel": 100,
+      "keyFungibleAsset": {
+        "id": "CrimsonHallsKey",
+        "name": "Crimson Halls Key",
+        "image": ""
+      },
+      "dungeonBossKillChance": "0.5"
+    }
+  ]
+}

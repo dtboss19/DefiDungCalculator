@@ -1,0 +1,575 @@
+{
+  "timestamp": "2025-04-08T16:18:17.361119",
+  "data": [
+    {
+      "id": "2877ce5c-9657-4d3c-9008-7a9004729ffc",
+      "isDeleted": false,
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "nftId": "2yztPRS1EC1t9ardtWTB5hd2NE9243AJevRYYRogTZJe",
+      "itemMetadataId": 267,
+      "itemMetadata": {
+        "id": 267,
+        "name": "Scorched Chaps",
+        "image": "https://uploads.defidungeons.gg/img/item/scorched-chaps.svg",
+        "type": "Legs",
+        "class": "Marksman",
+        "level": 130,
+        "rarity": "Mythic",
+        "effects": [
+          {
+            "itemMetadataId": 267,
+            "statType": "Power",
+            "value": "14"
+          },
+          {
+            "itemMetadataId": 267,
+            "statType": "Vitality",
+            "value": "12"
+          },
+          {
+            "itemMetadataId": 267,
+            "statType": "Luck",
+            "value": "28"
+          },
+          {
+            "itemMetadataId": 267,
+            "statType": "Fortune",
+            "value": "44"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1089e630-b626-4829-8fcf-982c477ded99",
+      "isDeleted": false,
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "nftId": "2yztPRS1EC1t9ardtWTB5hd2NE9243AJevRYYRogTZJe",
+      "itemMetadataId": 32,
+      "itemMetadata": {
+        "id": 32,
+        "name": "Initiates Longbow",
+        "image": "https://uploads.defidungeons.gg/img/item/initiates-longbow.svg",
+        "type": "Weapon",
+        "class": "Marksman",
+        "level": 115,
+        "rarity": "Epic",
+        "effects": [
+          {
+            "itemMetadataId": 32,
+            "statType": "Power",
+            "value": "51"
+          },
+          {
+            "itemMetadataId": 32,
+            "statType": "Vitality",
+            "value": "22"
+          },
+          {
+            "itemMetadataId": 32,
+            "statType": "Luck",
+            "value": "6"
+          },
+          {
+            "itemMetadataId": 32,
+            "statType": "Fortune",
+            "value": "13"
+          }
+        ]
+      }
+    },
+    {
+      "id": "045683b5-d310-4f63-a483-818ca8071a40",
+      "isDeleted": false,
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "nftId": "2yztPRS1EC1t9ardtWTB5hd2NE9243AJevRYYRogTZJe",
+      "itemMetadataId": 249,
+      "itemMetadata": {
+        "id": 249,
+        "name": "Seekers Chestpeice",
+        "image": "https://uploads.defidungeons.gg/img/item/seekers-chestpeice.svg",
+        "type": "Chest",
+        "class": "Marksman",
+        "level": 115,
+        "rarity": "Epic",
+        "effects": [
+          {
+            "itemMetadataId": 249,
+            "statType": "Power",
+            "value": "22"
+          },
+          {
+            "itemMetadataId": 249,
+            "statType": "Vitality",
+            "value": "41"
+          },
+          {
+            "itemMetadataId": 249,
+            "statType": "Luck",
+            "value": "16"
+          },
+          {
+            "itemMetadataId": 249,
+            "statType": "Fortune",
+            "value": "18"
+          }
+        ]
+      }
+    },
+    {
+      "id": "92595f7d-b102-4b24-8067-5b22f1d6c9a1",
+      "isDeleted": false,
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "nftId": null,
+      "itemMetadataId": 20,
+      "itemMetadata": {
+        "id": 20,
+        "name": "Icy Gun",
+        "image": "https://uploads.defidungeons.gg/img/item/icy-gun.svg",
+        "type": "Weapon",
+        "class": "Marksman",
+        "level": 100,
+        "rarity": "Rare",
+        "effects": [
+          {
+            "itemMetadataId": 20,
+            "statType": "Power",
+            "value": "41"
+          },
+          {
+            "itemMetadataId": 20,
+            "statType": "Vitality",
+            "value": "16"
+          },
+          {
+            "itemMetadataId": 20,
+            "statType": "Luck",
+            "value": "10"
+          },
+          {
+            "itemMetadataId": 20,
+            "statType": "Fortune",
+            "value": "13"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1ac4f451-8b3d-4f5e-bb7a-bcbdba15fd7b",
+      "isDeleted": false,
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "nftId": "2yztPRS1EC1t9ardtWTB5hd2NE9243AJevRYYRogTZJe",
+      "itemMetadataId": 240,
+      "itemMetadata": {
+        "id": 240,
+        "name": "Snowfang Helm",
+        "image": "https://uploads.defidungeons.gg/img/item/snowfang-helm.svg",
+        "type": "Headpiece",
+        "class": "Marksman",
+        "level": 100,
+        "rarity": "Rare",
+        "effects": [
+          {
+            "itemMetadataId": 240,
+            "statType": "Power",
+            "value": "17"
+          },
+          {
+            "itemMetadataId": 240,
+            "statType": "Vitality",
+            "value": "30"
+          },
+          {
+            "itemMetadataId": 240,
+            "statType": "Luck",
+            "value": "19"
+          },
+          {
+            "itemMetadataId": 240,
+            "statType": "Fortune",
+            "value": "19"
+          }
+        ]
+      }
+    },
+    {
+      "id": "22a9fc85-2d68-442a-8b0a-d0bf47fcacfb",
+      "isDeleted": false,
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "nftId": null,
+      "itemMetadataId": 237,
+      "itemMetadata": {
+        "id": 237,
+        "name": "Snowfang Chestpeice",
+        "image": "https://uploads.defidungeons.gg/img/item/snowfang-chestpeice.svg",
+        "type": "Chest",
+        "class": "Marksman",
+        "level": 100,
+        "rarity": "Rare",
+        "effects": [
+          {
+            "itemMetadataId": 237,
+            "statType": "Power",
+            "value": "18"
+          },
+          {
+            "itemMetadataId": 237,
+            "statType": "Vitality",
+            "value": "37"
+          },
+          {
+            "itemMetadataId": 237,
+            "statType": "Luck",
+            "value": "13"
+          },
+          {
+            "itemMetadataId": 237,
+            "statType": "Fortune",
+            "value": "17"
+          }
+        ]
+      }
+    },
+    {
+      "id": "beaa7c41-ab3b-4281-abe6-8eed01a864e5",
+      "isDeleted": false,
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "nftId": "2yztPRS1EC1t9ardtWTB5hd2NE9243AJevRYYRogTZJe",
+      "itemMetadataId": 246,
+      "itemMetadata": {
+        "id": 246,
+        "name": "Snowfang Footguards",
+        "image": "https://uploads.defidungeons.gg/img/item/snowfang-footguards.svg",
+        "type": "Boots",
+        "class": "Marksman",
+        "level": 100,
+        "rarity": "Rare",
+        "effects": [
+          {
+            "itemMetadataId": 246,
+            "statType": "Power",
+            "value": "10"
+          },
+          {
+            "itemMetadataId": 246,
+            "statType": "Vitality",
+            "value": "6"
+          },
+          {
+            "itemMetadataId": 246,
+            "statType": "Luck",
+            "value": "40"
+          },
+          {
+            "itemMetadataId": 246,
+            "statType": "Fortune",
+            "value": "19"
+          }
+        ]
+      }
+    },
+    {
+      "id": "739ffcc6-0a05-4114-9a01-482088eeaaca",
+      "isDeleted": false,
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "nftId": null,
+      "itemMetadataId": 14,
+      "itemMetadata": {
+        "id": 14,
+        "name": "Bone Crossbow",
+        "image": "https://uploads.defidungeons.gg/img/item/bone-crossbow.svg",
+        "type": "Weapon",
+        "class": "Marksman",
+        "level": 80,
+        "rarity": "Rare",
+        "effects": [
+          {
+            "itemMetadataId": 14,
+            "statType": "Power",
+            "value": "37"
+          },
+          {
+            "itemMetadataId": 14,
+            "statType": "Vitality",
+            "value": "9"
+          },
+          {
+            "itemMetadataId": 14,
+            "statType": "Luck",
+            "value": "9"
+          },
+          {
+            "itemMetadataId": 14,
+            "statType": "Fortune",
+            "value": "9"
+          }
+        ]
+      }
+    },
+    {
+      "id": "384de9b6-bf68-45c6-a70d-a497e5c00106",
+      "isDeleted": false,
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "nftId": null,
+      "itemMetadataId": 228,
+      "itemMetadata": {
+        "id": 228,
+        "name": "Primal Coif",
+        "image": "https://uploads.defidungeons.gg/img/item/primal-coif.svg",
+        "type": "Headpiece",
+        "class": "Marksman",
+        "level": 80,
+        "rarity": "Rare",
+        "effects": [
+          {
+            "itemMetadataId": 228,
+            "statType": "Power",
+            "value": "15"
+          },
+          {
+            "itemMetadataId": 228,
+            "statType": "Vitality",
+            "value": "24"
+          },
+          {
+            "itemMetadataId": 228,
+            "statType": "Luck",
+            "value": "14"
+          },
+          {
+            "itemMetadataId": 228,
+            "statType": "Fortune",
+            "value": "15"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8182f6b8-6bed-4c95-8a0e-aca9caf230f5",
+      "isDeleted": false,
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "nftId": null,
+      "itemMetadataId": 225,
+      "itemMetadata": {
+        "id": 225,
+        "name": "Primal Tunic",
+        "image": "https://uploads.defidungeons.gg/img/item/primal-tunic.svg",
+        "type": "Chest",
+        "class": "Marksman",
+        "level": 80,
+        "rarity": "Rare",
+        "effects": [
+          {
+            "itemMetadataId": 225,
+            "statType": "Power",
+            "value": "15"
+          },
+          {
+            "itemMetadataId": 225,
+            "statType": "Vitality",
+            "value": "28"
+          },
+          {
+            "itemMetadataId": 225,
+            "statType": "Luck",
+            "value": "12"
+          },
+          {
+            "itemMetadataId": 225,
+            "statType": "Fortune",
+            "value": "13"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b406e62a-d415-4d84-99fe-a8cd23965b1e",
+      "isDeleted": false,
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "nftId": null,
+      "itemMetadataId": 231,
+      "itemMetadata": {
+        "id": 231,
+        "name": "Primal Legs",
+        "image": "https://uploads.defidungeons.gg/img/item/primal-legs.svg",
+        "type": "Legs",
+        "class": "Marksman",
+        "level": 80,
+        "rarity": "Rare",
+        "effects": [
+          {
+            "itemMetadataId": 231,
+            "statType": "Power",
+            "value": "9"
+          },
+          {
+            "itemMetadataId": 231,
+            "statType": "Vitality",
+            "value": "10"
+          },
+          {
+            "itemMetadataId": 231,
+            "statType": "Luck",
+            "value": "15"
+          },
+          {
+            "itemMetadataId": 231,
+            "statType": "Fortune",
+            "value": "26"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5db4b69b-e075-4b6a-be6d-b32e03ca4be0",
+      "isDeleted": false,
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "nftId": null,
+      "itemMetadataId": 231,
+      "itemMetadata": {
+        "id": 231,
+        "name": "Primal Legs",
+        "image": "https://uploads.defidungeons.gg/img/item/primal-legs.svg",
+        "type": "Legs",
+        "class": "Marksman",
+        "level": 80,
+        "rarity": "Rare",
+        "effects": [
+          {
+            "itemMetadataId": 231,
+            "statType": "Power",
+            "value": "9"
+          },
+          {
+            "itemMetadataId": 231,
+            "statType": "Vitality",
+            "value": "10"
+          },
+          {
+            "itemMetadataId": 231,
+            "statType": "Luck",
+            "value": "15"
+          },
+          {
+            "itemMetadataId": 231,
+            "statType": "Fortune",
+            "value": "26"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3ff41199-a491-4d0a-81a7-2bf02f793796",
+      "isDeleted": false,
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "nftId": null,
+      "itemMetadataId": 219,
+      "itemMetadata": {
+        "id": 219,
+        "name": "Leather Legs",
+        "image": "https://uploads.defidungeons.gg/img/item/leather-legs.svg",
+        "type": "Legs",
+        "class": "Marksman",
+        "level": 60,
+        "rarity": "Uncommon",
+        "effects": [
+          {
+            "itemMetadataId": 219,
+            "statType": "Power",
+            "value": "6"
+          },
+          {
+            "itemMetadataId": 219,
+            "statType": "Vitality",
+            "value": "9"
+          },
+          {
+            "itemMetadataId": 219,
+            "statType": "Luck",
+            "value": "10"
+          },
+          {
+            "itemMetadataId": 219,
+            "statType": "Fortune",
+            "value": "21"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ef87e48c-5a0f-46fb-836c-8b38d0ff57db",
+      "isDeleted": false,
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "nftId": null,
+      "itemMetadataId": 222,
+      "itemMetadata": {
+        "id": 222,
+        "name": "Leather Shoes",
+        "image": "https://uploads.defidungeons.gg/img/item/leather-shoes.svg",
+        "type": "Boots",
+        "class": "Marksman",
+        "level": 60,
+        "rarity": "Uncommon",
+        "effects": [
+          {
+            "itemMetadataId": 222,
+            "statType": "Power",
+            "value": "6"
+          },
+          {
+            "itemMetadataId": 222,
+            "statType": "Vitality",
+            "value": "4"
+          },
+          {
+            "itemMetadataId": 222,
+            "statType": "Luck",
+            "value": "23"
+          },
+          {
+            "itemMetadataId": 222,
+            "statType": "Fortune",
+            "value": "13"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dc2ed982-58a3-4fea-a7e5-5652655da7f4",
+      "isDeleted": false,
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "nftId": null,
+      "itemMetadataId": 222,
+      "itemMetadata": {
+        "id": 222,
+        "name": "Leather Shoes",
+        "image": "https://uploads.defidungeons.gg/img/item/leather-shoes.svg",
+        "type": "Boots",
+        "class": "Marksman",
+        "level": 60,
+        "rarity": "Uncommon",
+        "effects": [
+          {
+            "itemMetadataId": 222,
+            "statType": "Power",
+            "value": "6"
+          },
+          {
+            "itemMetadataId": 222,
+            "statType": "Vitality",
+            "value": "4"
+          },
+          {
+            "itemMetadataId": 222,
+            "statType": "Luck",
+            "value": "23"
+          },
+          {
+            "itemMetadataId": 222,
+            "statType": "Fortune",
+            "value": "13"
+          }
+        ]
+      }
+    }
+  ]
+}

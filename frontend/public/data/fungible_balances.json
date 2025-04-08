@@ -1,0 +1,375 @@
+{
+  "timestamp": "2025-04-08T16:18:16.816224",
+  "data": [
+    {
+      "amount": "2172.69999999999998",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "Gold",
+      "fungibleAsset": {
+        "image": "",
+        "name": "Gold"
+      },
+      "offerPrice": 0
+    },
+    {
+      "amount": "0",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "WolfHead",
+      "fungibleAsset": {
+        "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/wolf-head.svg",
+        "name": "WolfHead"
+      },
+      "offerPrice": 13.9
+    },
+    {
+      "amount": "0",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "WoodenCasket",
+      "fungibleAsset": {
+        "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/wooden-casket.svg",
+        "name": "Wooden Casket"
+      },
+      "offerPrice": 27.8
+    },
+    {
+      "amount": "0",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "ForgottenGroveKey",
+      "fungibleAsset": {
+        "image": "",
+        "name": "Forgotten Grove Key"
+      },
+      "offerPrice": 0
+    },
+    {
+      "amount": "0",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "TomeOfKnowledge",
+      "fungibleAsset": {
+        "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/tome-of-knowledge.svg",
+        "name": "Tome of Knowledge"
+      },
+      "offerPrice": 5.6
+    },
+    {
+      "amount": "0",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "GiantBeetleShell",
+      "fungibleAsset": {
+        "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/giant-beetle-shell.svg",
+        "name": "Giant Beetle Shell"
+      },
+      "offerPrice": 11.1
+    },
+    {
+      "amount": "0",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "WolfClaw",
+      "fungibleAsset": {
+        "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/wolf-claw.svg",
+        "name": "Wolf Claw"
+      },
+      "offerPrice": 7
+    },
+    {
+      "amount": "0",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "ThievesDenKey",
+      "fungibleAsset": {
+        "image": "",
+        "name": "Thieves Den Key"
+      },
+      "offerPrice": 0
+    },
+    {
+      "amount": "0",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "WraithSoul",
+      "fungibleAsset": {
+        "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/wraith-soul.svg",
+        "name": "Wraith Soul"
+      },
+      "offerPrice": 20.9
+    },
+    {
+      "amount": "0",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "IceCrown",
+      "fungibleAsset": {
+        "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/ice-crown.svg",
+        "name": "Ice Crown"
+      },
+      "offerPrice": 41.8
+    },
+    {
+      "amount": "0",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "ElementalStone",
+      "fungibleAsset": {
+        "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/elemental-stone.svg",
+        "name": "Elemental Stone"
+      },
+      "offerPrice": 111.4
+    },
+    {
+      "amount": "0",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "AncientCloak",
+      "fungibleAsset": {
+        "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/ancient-cloak.svg",
+        "name": "Ancient Cloak"
+      },
+      "offerPrice": 11.1
+    },
+    {
+      "amount": "0",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "CrimsonHallsKey",
+      "fungibleAsset": {
+        "image": "",
+        "name": "Crimson Halls Key"
+      },
+      "offerPrice": 0
+    },
+    {
+      "amount": "0",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "GoldenChalice",
+      "fungibleAsset": {
+        "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/golden-chalice.svg",
+        "name": "Golden Chalice"
+      },
+      "offerPrice": 16.7
+    },
+    {
+      "amount": "0",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "BloodElixir",
+      "fungibleAsset": {
+        "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/blood-elixir.svg",
+        "name": "Blood Elixir"
+      },
+      "offerPrice": 8.4
+    },
+    {
+      "amount": "0",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "FrozenCoffer",
+      "fungibleAsset": {
+        "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/frozen-coffer.svg",
+        "name": "Frozen Coffer"
+      },
+      "offerPrice": 69.6
+    },
+    {
+      "amount": "0",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "FrozenHeart",
+      "fungibleAsset": {
+        "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/frozen-heart.svg",
+        "name": "Frozen Heart"
+      },
+      "offerPrice": 34.8
+    },
+    {
+      "amount": "0",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "FrozenTear",
+      "fungibleAsset": {
+        "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/frozen-tear.svg",
+        "name": "Frozen Tear"
+      },
+      "offerPrice": 16.7
+    },
+    {
+      "amount": "0",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "MirrorOfMemories",
+      "fungibleAsset": {
+        "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/mirror-of-memories.svg",
+        "name": "Mirror of Memories"
+      },
+      "offerPrice": 34.8
+    },
+    {
+      "amount": "0",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "AncientTombsKey",
+      "fungibleAsset": {
+        "image": "",
+        "name": "Ancient Tombs Key"
+      },
+      "offerPrice": 0
+    },
+    {
+      "amount": "0",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "EnchantedUrn",
+      "fungibleAsset": {
+        "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/enchanted-urn.svg",
+        "name": "Enchanted Urn"
+      },
+      "offerPrice": 48.7
+    },
+    {
+      "amount": "0",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "AncientPendant",
+      "fungibleAsset": {
+        "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/ancient-pendant.svg",
+        "name": "Ancient Pendant"
+      },
+      "offerPrice": 22.3
+    },
+    {
+      "amount": "0",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "AncientRelic",
+      "fungibleAsset": {
+        "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/ancient-relic.svg",
+        "name": "Ancient Relic"
+      },
+      "offerPrice": 153.2
+    },
+    {
+      "amount": "0",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "BanditSkull",
+      "fungibleAsset": {
+        "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/bandit-skull.svg",
+        "name": "Bandit Skull"
+      },
+      "offerPrice": 27.8
+    },
+    {
+      "amount": "0",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "DragonScale",
+      "fungibleAsset": {
+        "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/dragon-scale.svg",
+        "name": "Dragon Scale"
+      },
+      "offerPrice": 48.7
+    },
+    {
+      "amount": "0",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "KingsDiamond",
+      "fungibleAsset": {
+        "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/kings-diamond.svg",
+        "name": "King's Diamond"
+      },
+      "offerPrice": 69.6
+    },
+    {
+      "amount": "0",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "BanditMask",
+      "fungibleAsset": {
+        "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/bandit-mask.svg",
+        "name": "Bandit Mask"
+      },
+      "offerPrice": 13.9
+    },
+    {
+      "amount": "0",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "BanditHeart",
+      "fungibleAsset": {
+        "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/bandit-heart.svg",
+        "name": "Bandit Heart"
+      },
+      "offerPrice": 34.8
+    },
+    {
+      "amount": "0",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "InquisitorsTrinket",
+      "fungibleAsset": {
+        "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/inquisitors-trinket.svg",
+        "name": "Inquisitor's Trinket"
+      },
+      "offerPrice": 55.7
+    },
+    {
+      "amount": "0",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "InquisitorsOrb",
+      "fungibleAsset": {
+        "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/inquisitors-orb.svg",
+        "name": "Inquisitor's Orb"
+      },
+      "offerPrice": 48.7
+    },
+    {
+      "amount": "0",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "InquisitorsBook",
+      "fungibleAsset": {
+        "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/inquisitors-book.svg",
+        "name": "Inquisitor's Book"
+      },
+      "offerPrice": 20.9
+    },
+    {
+      "amount": "0",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "ShinyBand",
+      "fungibleAsset": {
+        "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/shiny-band.svg",
+        "name": "Shiny Band"
+      },
+      "offerPrice": 11.1
+    },
+    {
+      "amount": "0",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "PhoenixFeather",
+      "fungibleAsset": {
+        "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/phoenix-feather.svg",
+        "name": "Phoenix Feather"
+      },
+      "offerPrice": 22.3
+    },
+    {
+      "amount": "0",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "BankersBriefcase",
+      "fungibleAsset": {
+        "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/bankers-briefcase.svg",
+        "name": "Banker's Briefcase"
+      },
+      "offerPrice": 69.6
+    },
+    {
+      "amount": "0",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "FrostboundKeepKey",
+      "fungibleAsset": {
+        "image": "",
+        "name": "Frostbound Keep Key"
+      },
+      "offerPrice": 0
+    },
+    {
+      "amount": "0",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "CrownJewel",
+      "fungibleAsset": {
+        "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/crown-jewel.svg",
+        "name": "Crown Jewel"
+      },
+      "offerPrice": 27.8
+    },
+    {
+      "amount": "0",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "fungibleAssetId": "GemOfTheLostKing",
+      "fungibleAsset": {
+        "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/gem-of-the-lost-king.svg",
+        "name": "Gem of the Lost King"
+      },
+      "offerPrice": 13.9
+    }
+  ]
+}
