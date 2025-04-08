@@ -1,0 +1,836 @@
+{
+  "timestamp": "2025-04-08T16:19:18.403002",
+  "data": [
+    {
+      "id": "3dd1cf2e-9839-4596-a6f3-61a359886bb4",
+      "startedAt": "2025-04-05T21:06:04.597Z",
+      "claimedAt": "2025-04-05T22:07:23.991Z",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "nftId": "2yztPRS1EC1t9ardtWTB5hd2NE9243AJevRYYRogTZJe",
+      "nftCombatLevel": 68,
+      "rewards": [
+        {
+          "questId": "3dd1cf2e-9839-4596-a6f3-61a359886bb4",
+          "fungibleAssetId": "AncientTombsKey",
+          "amount": "1",
+          "fungibleAsset": {
+            "id": "AncientTombsKey",
+            "name": "Ancient Tombs Key",
+            "image": "",
+            "type": "DungeonKey"
+          }
+        }
+      ],
+      "wallet": {
+        "user": {
+          "links": [
+            {
+              "image": null,
+              "username": null,
+              "type": "Google"
+            }
+          ]
+        }
+      },
+      "pfp": null,
+      "username": null,
+      "keyCount": 1,
+      "lootCount": 0,
+      "droppedRareItem": null
+    },
+    {
+      "id": "3ccb851a-3d9a-450f-ab87-a495b4190e1f",
+      "startedAt": "2025-04-05T22:27:10.152Z",
+      "claimedAt": "2025-04-05T23:43:57.245Z",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "nftId": "2yztPRS1EC1t9ardtWTB5hd2NE9243AJevRYYRogTZJe",
+      "nftCombatLevel": 68,
+      "rewards": [
+        {
+          "questId": "3ccb851a-3d9a-450f-ab87-a495b4190e1f",
+          "fungibleAssetId": "ShinyBand",
+          "amount": "1",
+          "fungibleAsset": {
+            "id": "ShinyBand",
+            "name": "Shiny Band",
+            "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/shiny-band.svg",
+            "type": "MerchantItem"
+          }
+        },
+        {
+          "questId": "3ccb851a-3d9a-450f-ab87-a495b4190e1f",
+          "fungibleAssetId": "ThievesDenKey",
+          "amount": "1",
+          "fungibleAsset": {
+            "id": "ThievesDenKey",
+            "name": "Thieves Den Key",
+            "image": "",
+            "type": "DungeonKey"
+          }
+        }
+      ],
+      "wallet": {
+        "user": {
+          "links": [
+            {
+              "image": null,
+              "username": null,
+              "type": "Google"
+            }
+          ]
+        }
+      },
+      "pfp": null,
+      "username": null,
+      "keyCount": 1,
+      "lootCount": 1,
+      "droppedRareItem": null
+    },
+    {
+      "id": "9153763b-cfe1-4c2b-86fc-cf993070a0dd",
+      "startedAt": "2025-04-05T23:59:59.466Z",
+      "claimedAt": "2025-04-06T04:10:14.911Z",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "nftId": "2yztPRS1EC1t9ardtWTB5hd2NE9243AJevRYYRogTZJe",
+      "nftCombatLevel": 68,
+      "rewards": [
+        {
+          "questId": "9153763b-cfe1-4c2b-86fc-cf993070a0dd",
+          "fungibleAssetId": "ShinyBand",
+          "amount": "1",
+          "fungibleAsset": {
+            "id": "ShinyBand",
+            "name": "Shiny Band",
+            "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/shiny-band.svg",
+            "type": "MerchantItem"
+          }
+        },
+        {
+          "questId": "9153763b-cfe1-4c2b-86fc-cf993070a0dd",
+          "fungibleAssetId": "PhoenixFeather",
+          "amount": "1",
+          "fungibleAsset": {
+            "id": "PhoenixFeather",
+            "name": "Phoenix Feather",
+            "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/phoenix-feather.svg",
+            "type": "MerchantItem"
+          }
+        }
+      ],
+      "wallet": {
+        "user": {
+          "links": [
+            {
+              "image": null,
+              "username": null,
+              "type": "Google"
+            }
+          ]
+        }
+      },
+      "pfp": null,
+      "username": null,
+      "keyCount": 0,
+      "lootCount": 2,
+      "droppedRareItem": null
+    },
+    {
+      "id": "68ea3686-a609-4afb-8311-861024702caa",
+      "startedAt": "2025-04-06T04:10:27.407Z",
+      "claimedAt": "2025-04-06T15:02:10.726Z",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "nftId": "2yztPRS1EC1t9ardtWTB5hd2NE9243AJevRYYRogTZJe",
+      "nftCombatLevel": 68,
+      "rewards": [
+        {
+          "questId": "68ea3686-a609-4afb-8311-861024702caa",
+          "fungibleAssetId": "ShinyBand",
+          "amount": "2",
+          "fungibleAsset": {
+            "id": "ShinyBand",
+            "name": "Shiny Band",
+            "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/shiny-band.svg",
+            "type": "MerchantItem"
+          }
+        },
+        {
+          "questId": "68ea3686-a609-4afb-8311-861024702caa",
+          "fungibleAssetId": "AncientTombsKey",
+          "amount": "3",
+          "fungibleAsset": {
+            "id": "AncientTombsKey",
+            "name": "Ancient Tombs Key",
+            "image": "",
+            "type": "DungeonKey"
+          }
+        },
+        {
+          "questId": "68ea3686-a609-4afb-8311-861024702caa",
+          "fungibleAssetId": "PhoenixFeather",
+          "amount": "1",
+          "fungibleAsset": {
+            "id": "PhoenixFeather",
+            "name": "Phoenix Feather",
+            "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/phoenix-feather.svg",
+            "type": "MerchantItem"
+          }
+        }
+      ],
+      "wallet": {
+        "user": {
+          "links": [
+            {
+              "image": null,
+              "username": null,
+              "type": "Google"
+            }
+          ]
+        }
+      },
+      "pfp": null,
+      "username": null,
+      "keyCount": 3,
+      "lootCount": 3,
+      "droppedRareItem": null
+    },
+    {
+      "id": "56b7ab89-cc18-4225-83e0-05112ff0a414",
+      "startedAt": "2025-04-06T15:20:01.472Z",
+      "claimedAt": "2025-04-06T17:05:35.511Z",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "nftId": "2yztPRS1EC1t9ardtWTB5hd2NE9243AJevRYYRogTZJe",
+      "nftCombatLevel": 68,
+      "rewards": [
+        {
+          "questId": "56b7ab89-cc18-4225-83e0-05112ff0a414",
+          "fungibleAssetId": "ShinyBand",
+          "amount": "1",
+          "fungibleAsset": {
+            "id": "ShinyBand",
+            "name": "Shiny Band",
+            "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/shiny-band.svg",
+            "type": "MerchantItem"
+          }
+        }
+      ],
+      "wallet": {
+        "user": {
+          "links": [
+            {
+              "image": null,
+              "username": null,
+              "type": "Google"
+            }
+          ]
+        }
+      },
+      "pfp": null,
+      "username": null,
+      "keyCount": 0,
+      "lootCount": 1,
+      "droppedRareItem": null
+    },
+    {
+      "id": "dc76cd76-ea63-44dc-8a33-4836cf4bac76",
+      "startedAt": "2025-04-06T17:40:17.615Z",
+      "claimedAt": "2025-04-06T18:02:49.300Z",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "nftId": "2yztPRS1EC1t9ardtWTB5hd2NE9243AJevRYYRogTZJe",
+      "nftCombatLevel": 78,
+      "rewards": [
+        {
+          "questId": "dc76cd76-ea63-44dc-8a33-4836cf4bac76",
+          "fungibleAssetId": "ShinyBand",
+          "amount": "1",
+          "fungibleAsset": {
+            "id": "ShinyBand",
+            "name": "Shiny Band",
+            "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/shiny-band.svg",
+            "type": "MerchantItem"
+          }
+        },
+        {
+          "questId": "dc76cd76-ea63-44dc-8a33-4836cf4bac76",
+          "fungibleAssetId": "DragonScale",
+          "amount": "1",
+          "fungibleAsset": {
+            "id": "DragonScale",
+            "name": "Dragon Scale",
+            "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/dragon-scale.svg",
+            "type": "MerchantItem"
+          }
+        }
+      ],
+      "wallet": {
+        "user": {
+          "links": [
+            {
+              "image": null,
+              "username": null,
+              "type": "Google"
+            }
+          ]
+        }
+      },
+      "pfp": null,
+      "username": null,
+      "keyCount": 0,
+      "lootCount": 2,
+      "droppedRareItem": null
+    },
+    {
+      "id": "fd73c691-6909-41a3-9322-e48e47ee5cc7",
+      "startedAt": "2025-04-06T18:03:01.303Z",
+      "claimedAt": "2025-04-06T19:02:53.413Z",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "nftId": "2yztPRS1EC1t9ardtWTB5hd2NE9243AJevRYYRogTZJe",
+      "nftCombatLevel": 78,
+      "rewards": [
+        {
+          "questId": "fd73c691-6909-41a3-9322-e48e47ee5cc7",
+          "fungibleAssetId": "AncientTombsKey",
+          "amount": "1",
+          "fungibleAsset": {
+            "id": "AncientTombsKey",
+            "name": "Ancient Tombs Key",
+            "image": "",
+            "type": "DungeonKey"
+          }
+        }
+      ],
+      "wallet": {
+        "user": {
+          "links": [
+            {
+              "image": null,
+              "username": null,
+              "type": "Google"
+            }
+          ]
+        }
+      },
+      "pfp": null,
+      "username": null,
+      "keyCount": 1,
+      "lootCount": 0,
+      "droppedRareItem": null
+    },
+    {
+      "id": "448ec85d-661b-4884-afed-8e5922b320fb",
+      "startedAt": "2025-04-06T19:19:06.641Z",
+      "claimedAt": "2025-04-06T20:16:48.775Z",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "nftId": "2yztPRS1EC1t9ardtWTB5hd2NE9243AJevRYYRogTZJe",
+      "nftCombatLevel": 78,
+      "rewards": [
+        {
+          "questId": "448ec85d-661b-4884-afed-8e5922b320fb",
+          "fungibleAssetId": "ShinyBand",
+          "amount": "1",
+          "fungibleAsset": {
+            "id": "ShinyBand",
+            "name": "Shiny Band",
+            "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/shiny-band.svg",
+            "type": "MerchantItem"
+          }
+        },
+        {
+          "questId": "448ec85d-661b-4884-afed-8e5922b320fb",
+          "fungibleAssetId": "PhoenixFeather",
+          "amount": "1",
+          "fungibleAsset": {
+            "id": "PhoenixFeather",
+            "name": "Phoenix Feather",
+            "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/phoenix-feather.svg",
+            "type": "MerchantItem"
+          }
+        },
+        {
+          "questId": "448ec85d-661b-4884-afed-8e5922b320fb",
+          "fungibleAssetId": "AncientTombsKey",
+          "amount": "1",
+          "fungibleAsset": {
+            "id": "AncientTombsKey",
+            "name": "Ancient Tombs Key",
+            "image": "",
+            "type": "DungeonKey"
+          }
+        }
+      ],
+      "wallet": {
+        "user": {
+          "links": [
+            {
+              "image": null,
+              "username": null,
+              "type": "Google"
+            }
+          ]
+        }
+      },
+      "pfp": null,
+      "username": null,
+      "keyCount": 1,
+      "lootCount": 2,
+      "droppedRareItem": null
+    },
+    {
+      "id": "d97bd4e3-a446-40e8-9091-5e922165a842",
+      "startedAt": "2025-04-06T20:43:54.237Z",
+      "claimedAt": "2025-04-07T02:03:07.838Z",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "nftId": "2yztPRS1EC1t9ardtWTB5hd2NE9243AJevRYYRogTZJe",
+      "nftCombatLevel": 89,
+      "rewards": [
+        {
+          "questId": "d97bd4e3-a446-40e8-9091-5e922165a842",
+          "fungibleAssetId": "FrostboundKeepKey",
+          "amount": "2",
+          "fungibleAsset": {
+            "id": "FrostboundKeepKey",
+            "name": "Frostbound Keep Key",
+            "image": "",
+            "type": "DungeonKey"
+          }
+        },
+        {
+          "questId": "d97bd4e3-a446-40e8-9091-5e922165a842",
+          "fungibleAssetId": "CrownJewel",
+          "amount": "1",
+          "fungibleAsset": {
+            "id": "CrownJewel",
+            "name": "Crown Jewel",
+            "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/crown-jewel.svg",
+            "type": "MerchantItem"
+          }
+        },
+        {
+          "questId": "d97bd4e3-a446-40e8-9091-5e922165a842",
+          "fungibleAssetId": "GemOfTheLostKing",
+          "amount": "1",
+          "fungibleAsset": {
+            "id": "GemOfTheLostKing",
+            "name": "Gem of the Lost King",
+            "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/gem-of-the-lost-king.svg",
+            "type": "MerchantItem"
+          }
+        }
+      ],
+      "wallet": {
+        "user": {
+          "links": [
+            {
+              "image": null,
+              "username": null,
+              "type": "Google"
+            }
+          ]
+        }
+      },
+      "pfp": null,
+      "username": null,
+      "keyCount": 2,
+      "lootCount": 2,
+      "droppedRareItem": "CrownJewel"
+    },
+    {
+      "id": "4f705a0e-c9b8-4788-8412-7937ddc892f3",
+      "startedAt": "2025-04-07T02:36:52.107Z",
+      "claimedAt": "2025-04-07T13:03:14.154Z",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "nftId": "2yztPRS1EC1t9ardtWTB5hd2NE9243AJevRYYRogTZJe",
+      "nftCombatLevel": 89,
+      "rewards": [
+        {
+          "questId": "4f705a0e-c9b8-4788-8412-7937ddc892f3",
+          "fungibleAssetId": "GemOfTheLostKing",
+          "amount": "2",
+          "fungibleAsset": {
+            "id": "GemOfTheLostKing",
+            "name": "Gem of the Lost King",
+            "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/gem-of-the-lost-king.svg",
+            "type": "MerchantItem"
+          }
+        },
+        {
+          "questId": "4f705a0e-c9b8-4788-8412-7937ddc892f3",
+          "fungibleAssetId": "KingsDiamond",
+          "amount": "1",
+          "fungibleAsset": {
+            "id": "KingsDiamond",
+            "name": "King's Diamond",
+            "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/kings-diamond.svg",
+            "type": "MerchantItem"
+          }
+        },
+        {
+          "questId": "4f705a0e-c9b8-4788-8412-7937ddc892f3",
+          "fungibleAssetId": "FrostboundKeepKey",
+          "amount": "1",
+          "fungibleAsset": {
+            "id": "FrostboundKeepKey",
+            "name": "Frostbound Keep Key",
+            "image": "",
+            "type": "DungeonKey"
+          }
+        }
+      ],
+      "wallet": {
+        "user": {
+          "links": [
+            {
+              "image": null,
+              "username": null,
+              "type": "Google"
+            }
+          ]
+        }
+      },
+      "pfp": null,
+      "username": null,
+      "keyCount": 1,
+      "lootCount": 3,
+      "droppedRareItem": "GemOfTheLostKing"
+    },
+    {
+      "id": "ea3d73d3-4591-4bab-b377-211b395c3be7",
+      "startedAt": "2025-04-07T13:23:57.459Z",
+      "claimedAt": "2025-04-07T14:23:25.736Z",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "nftId": "2yztPRS1EC1t9ardtWTB5hd2NE9243AJevRYYRogTZJe",
+      "nftCombatLevel": 96,
+      "rewards": [
+        {
+          "questId": "ea3d73d3-4591-4bab-b377-211b395c3be7",
+          "fungibleAssetId": "FrostboundKeepKey",
+          "amount": "1",
+          "fungibleAsset": {
+            "id": "FrostboundKeepKey",
+            "name": "Frostbound Keep Key",
+            "image": "",
+            "type": "DungeonKey"
+          }
+        }
+      ],
+      "wallet": {
+        "user": {
+          "links": [
+            {
+              "image": null,
+              "username": null,
+              "type": "Google"
+            }
+          ]
+        }
+      },
+      "pfp": null,
+      "username": null,
+      "keyCount": 1,
+      "lootCount": 0,
+      "droppedRareItem": null
+    },
+    {
+      "id": "02435b6d-011b-4cc9-820f-3717f252b24c",
+      "startedAt": "2025-04-07T14:41:13.343Z",
+      "claimedAt": "2025-04-07T16:02:43.261Z",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "nftId": "2yztPRS1EC1t9ardtWTB5hd2NE9243AJevRYYRogTZJe",
+      "nftCombatLevel": 96,
+      "rewards": [
+        {
+          "questId": "02435b6d-011b-4cc9-820f-3717f252b24c",
+          "fungibleAssetId": "FrostboundKeepKey",
+          "amount": "1",
+          "fungibleAsset": {
+            "id": "FrostboundKeepKey",
+            "name": "Frostbound Keep Key",
+            "image": "",
+            "type": "DungeonKey"
+          }
+        },
+        {
+          "questId": "02435b6d-011b-4cc9-820f-3717f252b24c",
+          "fungibleAssetId": "GemOfTheLostKing",
+          "amount": "1",
+          "fungibleAsset": {
+            "id": "GemOfTheLostKing",
+            "name": "Gem of the Lost King",
+            "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/gem-of-the-lost-king.svg",
+            "type": "MerchantItem"
+          }
+        }
+      ],
+      "wallet": {
+        "user": {
+          "links": [
+            {
+              "image": null,
+              "username": null,
+              "type": "Google"
+            }
+          ]
+        }
+      },
+      "pfp": null,
+      "username": null,
+      "keyCount": 1,
+      "lootCount": 1,
+      "droppedRareItem": "GemOfTheLostKing"
+    },
+    {
+      "id": "ac4fd776-30ee-4c81-bc84-c463a6b94680",
+      "startedAt": "2025-04-07T16:21:48.972Z",
+      "claimedAt": "2025-04-07T17:08:04.092Z",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "nftId": "2yztPRS1EC1t9ardtWTB5hd2NE9243AJevRYYRogTZJe",
+      "nftCombatLevel": 96,
+      "rewards": [
+        {
+          "questId": "ac4fd776-30ee-4c81-bc84-c463a6b94680",
+          "fungibleAssetId": "FrostboundKeepKey",
+          "amount": "1",
+          "fungibleAsset": {
+            "id": "FrostboundKeepKey",
+            "name": "Frostbound Keep Key",
+            "image": "",
+            "type": "DungeonKey"
+          }
+        }
+      ],
+      "wallet": {
+        "user": {
+          "links": [
+            {
+              "image": null,
+              "username": null,
+              "type": "Google"
+            }
+          ]
+        }
+      },
+      "pfp": null,
+      "username": null,
+      "keyCount": 1,
+      "lootCount": 0,
+      "droppedRareItem": null
+    },
+    {
+      "id": "f47ee04b-5aaf-4b59-a9b6-7f318eb42732",
+      "startedAt": "2025-04-07T17:25:49.036Z",
+      "claimedAt": "2025-04-07T18:17:14.797Z",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "nftId": "2yztPRS1EC1t9ardtWTB5hd2NE9243AJevRYYRogTZJe",
+      "nftCombatLevel": 103,
+      "rewards": [
+        {
+          "questId": "f47ee04b-5aaf-4b59-a9b6-7f318eb42732",
+          "fungibleAssetId": "CrownJewel",
+          "amount": "1",
+          "fungibleAsset": {
+            "id": "CrownJewel",
+            "name": "Crown Jewel",
+            "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/crown-jewel.svg",
+            "type": "MerchantItem"
+          }
+        },
+        {
+          "questId": "f47ee04b-5aaf-4b59-a9b6-7f318eb42732",
+          "fungibleAssetId": "CrimsonHallsKey",
+          "amount": "1",
+          "fungibleAsset": {
+            "id": "CrimsonHallsKey",
+            "name": "Crimson Halls Key",
+            "image": "",
+            "type": "DungeonKey"
+          }
+        }
+      ],
+      "wallet": {
+        "user": {
+          "links": [
+            {
+              "image": null,
+              "username": null,
+              "type": "Google"
+            }
+          ]
+        }
+      },
+      "pfp": null,
+      "username": null,
+      "keyCount": 1,
+      "lootCount": 1,
+      "droppedRareItem": "CrownJewel"
+    },
+    {
+      "id": "0c776245-af9d-4ece-bea0-e94be1f351b1",
+      "startedAt": "2025-04-07T18:19:39.901Z",
+      "claimedAt": "2025-04-07T19:41:12.816Z",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "nftId": "2yztPRS1EC1t9ardtWTB5hd2NE9243AJevRYYRogTZJe",
+      "nftCombatLevel": 103,
+      "rewards": [
+        {
+          "questId": "0c776245-af9d-4ece-bea0-e94be1f351b1",
+          "fungibleAssetId": "FrostboundKeepKey",
+          "amount": "1",
+          "fungibleAsset": {
+            "id": "FrostboundKeepKey",
+            "name": "Frostbound Keep Key",
+            "image": "",
+            "type": "DungeonKey"
+          }
+        }
+      ],
+      "wallet": {
+        "user": {
+          "links": [
+            {
+              "image": null,
+              "username": null,
+              "type": "Google"
+            }
+          ]
+        }
+      },
+      "pfp": null,
+      "username": null,
+      "keyCount": 1,
+      "lootCount": 0,
+      "droppedRareItem": null
+    },
+    {
+      "id": "2a6f6242-11d8-40a6-8571-ed32bbe45e8e",
+      "startedAt": "2025-04-07T20:35:10.805Z",
+      "claimedAt": "2025-04-07T23:04:26.220Z",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "nftId": "2yztPRS1EC1t9ardtWTB5hd2NE9243AJevRYYRogTZJe",
+      "nftCombatLevel": 106,
+      "rewards": [
+        {
+          "questId": "2a6f6242-11d8-40a6-8571-ed32bbe45e8e",
+          "fungibleAssetId": "GemOfTheLostKing",
+          "amount": "1",
+          "fungibleAsset": {
+            "id": "GemOfTheLostKing",
+            "name": "Gem of the Lost King",
+            "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/gem-of-the-lost-king.svg",
+            "type": "MerchantItem"
+          }
+        }
+      ],
+      "wallet": {
+        "user": {
+          "links": [
+            {
+              "image": null,
+              "username": null,
+              "type": "Google"
+            }
+          ]
+        }
+      },
+      "pfp": null,
+      "username": null,
+      "keyCount": 0,
+      "lootCount": 1,
+      "droppedRareItem": "GemOfTheLostKing"
+    },
+    {
+      "id": "e8de43d1-6f2f-416f-be95-774304be6260",
+      "startedAt": "2025-04-07T23:04:30.573Z",
+      "claimedAt": "2025-04-08T01:27:19.549Z",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "nftId": "2yztPRS1EC1t9ardtWTB5hd2NE9243AJevRYYRogTZJe",
+      "nftCombatLevel": 106,
+      "rewards": [
+        {
+          "questId": "e8de43d1-6f2f-416f-be95-774304be6260",
+          "fungibleAssetId": "FrostboundKeepKey",
+          "amount": "1",
+          "fungibleAsset": {
+            "id": "FrostboundKeepKey",
+            "name": "Frostbound Keep Key",
+            "image": "",
+            "type": "DungeonKey"
+          }
+        },
+        {
+          "questId": "e8de43d1-6f2f-416f-be95-774304be6260",
+          "fungibleAssetId": "CrimsonHallsKey",
+          "amount": "1",
+          "fungibleAsset": {
+            "id": "CrimsonHallsKey",
+            "name": "Crimson Halls Key",
+            "image": "",
+            "type": "DungeonKey"
+          }
+        }
+      ],
+      "wallet": {
+        "user": {
+          "links": [
+            {
+              "image": null,
+              "username": null,
+              "type": "Google"
+            }
+          ]
+        }
+      },
+      "pfp": null,
+      "username": null,
+      "keyCount": 2,
+      "lootCount": 0,
+      "droppedRareItem": "CrimsonHallsKey"
+    },
+    {
+      "id": "f234ac91-cf6a-43e8-8c1e-2ba42340bd5a",
+      "startedAt": "2025-04-08T02:02:28.196Z",
+      "claimedAt": "2025-04-08T03:13:46.990Z",
+      "walletId": "ADSmgpe7xCZESKC3PzW2RbfGCzCkdyN9r87FL4jyiN2k",
+      "nftId": "2yztPRS1EC1t9ardtWTB5hd2NE9243AJevRYYRogTZJe",
+      "nftCombatLevel": 106,
+      "rewards": [
+        {
+          "questId": "f234ac91-cf6a-43e8-8c1e-2ba42340bd5a",
+          "fungibleAssetId": "CrownJewel",
+          "amount": "1",
+          "fungibleAsset": {
+            "id": "CrownJewel",
+            "name": "Crown Jewel",
+            "image": "https://uploads.defidungeons.gg/img/dd-fungible-asset/crown-jewel.svg",
+            "type": "MerchantItem"
+          }
+        },
+        {
+          "questId": "f234ac91-cf6a-43e8-8c1e-2ba42340bd5a",
+          "fungibleAssetId": "CrimsonHallsKey",
+          "amount": "1",
+          "fungibleAsset": {
+            "id": "CrimsonHallsKey",
+            "name": "Crimson Halls Key",
+            "image": "",
+            "type": "DungeonKey"
+          }
+        }
+      ],
+      "wallet": {
+        "user": {
+          "links": [
+            {
+              "image": null,
+              "username": null,
+              "type": "Google"
+            }
+          ]
+        }
+      },
+      "pfp": null,
+      "username": null,
+      "keyCount": 1,
+      "lootCount": 1,
+      "droppedRareItem": "CrownJewel"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+Project Overview
+
+
+Create a Return On Investment Calculator in python for a ranges of possibilities for my digital assets for a game called Defi Dungeons on the Solana Blockchain
+
+
+We need to track a couple of things on the Solana blockchain
+
+ NFT VALUE(FLOOR PRICE): This is the MINIMUM value for what the NFT is worth, here is the link for that 
+ https://magiceden.us/marketplace/defi_dungeons. 
+
+ Things to keep in mind: The mint price was $325 USDC (325 dollars) and it's currently valued at 3.53 SOLANA
+
+ It would be your job to find that it is listed at 3.53 Solana and the find the price of Solana and do the multiplication to find value in dollars.
+
+ Token Price of In Game Currency; GOLD, we should track the price of gold at different price levels, we should get the price when we run the program to currently see where we are and then we should have different price levels and what price level associated to how many days Return on investment.
+ 
+MANUALLY IMPORT:
+ 
+We also need to manually import my in-game gold earnings per day. 
+
+So we should prompt me to enter a date and my gold earnings for that day, so we can start to view the data.
+
+We should then use an AI model to also help predict ROI for me, as we get more data this will be easier. Right now I only have 2 days worth.
+
+ Important Token Contact Addresses and Links:
+
+ Gold: GoLDDDNBPD72mSCYbC75GoFZ1e97Uczakp8yNi7JHrK4
+ Solana: So11111111111111111111111111111111111111112
+ Game-NFT:2yztPRS1EC1t9ardtWTB5hd2NE9243AJevRYYRogTZJe
+
+Free Price API: Jupiter API: https://dev.jup.ag/docs/api/price-api/price
+
+
+ GOAL:  Knowing This I spent $325 on the NFT and $100 dollars on the in game token token.
+
+ Create a dashboard and calculator to help me find my breakeven point for the game and when I can expect to hit $425 dollars return. 
+  
+
+
+
+
+
+
+
+
+
+
+
+

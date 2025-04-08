@@ -1,0 +1,60 @@
+Hero NFT Mint 31st March on Magic Eden.
+DeFi Dungeons
+Introduction
+Heroes
+li]:opacity-1" >
+Adventurer
+Banker
+$GOLD Token
+The Game
+Dungeons
+Dungeon Mechanics
+Quests
+Quest Mechanics
+Items
+Equipment
+Loot
+The Training Ground
+Combat Training
+Talents
+Stats
+The Tavern
+Loot Exchange
+Banking
+$GOLD Staking
+Item Vault
+Summoning
+Raids
+NFT Marketplace
+Referrals
+Economy & Expansions
+Powered by GitBook
+On this page
+]:mt-5 whitespace-pre-wrap">
+Each Dungeon has different Odds, Bosses, Risks, and Rewards
+Dungeon Instance
+Each Dungeon consists of:
+div]:mt-0 :mt-0 :mt-0 mx-0">A Notice Board that displays Dungeon information/ loot tables
+div]:mt-0 :mt-0 :mt-0 mx-0">The Dungeon Boss to battle
+div]:mt-0 :mt-0 :mt-0 mx-0">A chest to claim your loot
+How do Dungeons work?
+div]:mt-0 :mt-0 :mt-0 mx-0">Begin by clicking on the Boss in the Dungeon instance. You must have the required Dungeon key to enter the Dungeon.
+div]:mt-0 :mt-0 :mt-0 mx-0">Users must equip their characters in preparation for the dungeon. You can do this in the dungeon send screen or in the my heroes section.
+div]:mt-0 :mt-0 :mt-0 mx-0">Start the Dungeon after equipping and selecting your characters.
+div]:mt-0 :mt-0 :mt-0 mx-0">Dungeons take 15 minutes to complete.
+div]:mt-0 :mt-0 :mt-0 mx-0">Once the timer ends, users can claim to see if they killed the Boss and what rewards they earned from the Dungeon run.
+div]:mt-0 :mt-0 :mt-0 mx-0">Users can equip newly found Equipment to improve their combat level.
+div]:mt-0 :mt-0 :mt-0 mx-0">Users can sell newly acquired loot at the Loot Exchange for $GOLD.
+Dungeon Keys
+Each Dungeon requires its own unique entry key. Adventurers use 1 Dungeon Key per Dungeon Run. Keys are found while Questing and are bound to the account, not the individual NFT.
+Each Dungeon increases in its difficulty. Each with a higher recommended Combat Level than the prior, but with rarer and more valuable rewards. The adventurers' chance to kill each Boss varies based on their combat level vs the Boss's combat level. Adventurers can attempt any boss at any combat level, but trying to kill a boss much higher than your level is risky and likely to fail. Adventurers can see their exact % chance to kill each boss when their NFT is selected in the Dungeon Send screen.
+If you are above or below the recommended combat level suggested for the Dungeon, your odds to kill may drastically change to represent your power vs the boss. For example, if you try to kill The Inquisitor at level 1, the odds of success will be sub 1%.
+Dungeons 5 & above (level 100) are the only Dungeons where you will have a chance of
+Death
+. If you are unfortunate enough to hit the Death event, your Adventurer NFT will be burnt, and his remains will be scattered in Nightvales Graveyard, never to return.
+Loot Table
+Each Boss has a Different Loot table. The odds for each piece of equipment and loot can be found in the Loot table of each boss. Each class can earn different Equipment from the boss, but all share the same 'Loot' pool.
+Previous
+Next
+Last updated
+5 days ago

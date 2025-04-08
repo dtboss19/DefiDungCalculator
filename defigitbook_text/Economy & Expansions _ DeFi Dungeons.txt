@@ -1,0 +1,41 @@
+Hero NFT Mint 31st March on Magic Eden.
+DeFi Dungeons
+Introduction
+Heroes
+li]:opacity-1" >
+Adventurer
+Banker
+$GOLD Token
+The Game
+Dungeons
+Dungeon Mechanics
+Quests
+Items
+Equipment
+Loot
+The Training Ground
+Combat Training
+Talents
+Stats
+The Tavern
+Loot Exchange
+Banking
+$GOLD Staking
+Item Vault
+Summoning
+Raids
+NFT Marketplace
+Referrals
+Economy & Expansions
+Powered by GitBook
+On this page
+]:mt-5 whitespace-pre-wrap">
+Expansions
+DeFi Dungeons will take an expansion-based approach to new content & game scaling.
+The first expansion allows users to reach a level of 140 and will include 6 Dungeons and 2 Raids.
+With each new expansion, we introduce new content (dungeons, raids, gear) and increase the level cap. This model allows us to scale up progression indefinitely without having the need for economic resets at each expansion. This works due to our faucet model for Emissions, which ensures emissions stay constant and do not become overinflationary.
+Economy
+The $GOLD faucet model ensures that only a certain number of tokens are given out per day, spread out across the economy. As all emissions come from the Loot Exchange Faucet and the loot items have weightings, as users progress through the game, earlier items become worth less than end-game items. This creates a dynamic where users have to progress with the player base to stay competitive with their $GOLD earnings.
+Previous
+Last updated
+5 days ago

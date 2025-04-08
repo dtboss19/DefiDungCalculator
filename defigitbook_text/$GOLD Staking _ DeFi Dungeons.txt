@@ -1,0 +1,39 @@
+Hero NFT Mint 31st March on Magic Eden.
+DeFi Dungeons
+Introduction
+Heroes
+li]:opacity-1" >
+Adventurer
+Banker
+$GOLD Token
+The Game
+Dungeons
+Dungeon Mechanics
+Quests
+Quest Mechanics
+Items
+Equipment
+Loot
+The Training Ground
+Combat Training
+Talents
+Stats
+The Tavern
+Loot Exchange
+Banking
+$GOLD Staking
+Item Vault
+Summoning
+Raids
+NFT Marketplace
+Referrals
+Economy & Expansions
+Powered by GitBook
+On this page
+]:mt-5 whitespace-pre-wrap">
+Users can stake their $GOLD at the tavern to earn a % of all tokens spent in the economy.
+A (TBD) percentage of all sinks is shared with $GOLD stakers. Users will accumulate their share of the split based on their percentage of the total $GOLD staked.
+Previous
+Next
+Last updated
+6 days ago

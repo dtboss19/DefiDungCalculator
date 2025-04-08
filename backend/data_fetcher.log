@@ -1,0 +1,11 @@
+2025-04-07 22:41:15,605 - INFO - Starting data fetch cycle
+2025-04-07 22:41:16,101 - INFO - Saved and copied fungible_balances.json to frontend
+2025-04-07 22:41:16,463 - INFO - Saved and copied dungeon_definitions.json to frontend
+2025-04-07 22:41:16,827 - INFO - Saved and copied inventory_items.json to frontend
+2025-04-07 22:41:18,040 - INFO - Saved and copied recent_quest_claims.json to frontend
+2025-04-07 22:41:18,675 - INFO - Saved and copied recent_trip_rewards.json to frontend
+2025-04-07 22:41:19,041 - ERROR - Error making request to /loot-exchange/recent-exchanges: 500 Server Error: Internal Server Error for url: https://api-production.defidungeons.gg/loot-exchange/recent-exchanges
+2025-04-07 22:41:19,426 - INFO - Saved and copied drop_chances.json to frontend
+2025-04-07 22:41:19,426 - INFO - Completed data fetch cycle
+2025-04-07 22:41:19,427 - INFO - Waiting 10 minutes before next fetch...
+2025-04-07 22:47:34,777 - INFO - Stopping data fetcher...

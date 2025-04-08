@@ -1,0 +1,49 @@
+Hero NFT Mint 31st March on Magic Eden.
+DeFi Dungeons
+Introduction
+Heroes
+li]:opacity-1" >
+Adventurer
+Banker
+$GOLD Token
+The Game
+Dungeons
+Dungeon Mechanics
+Quests
+Quest Mechanics
+Items
+Equipment
+Loot
+The Training Ground
+Combat Training
+Talents
+Stats
+The Tavern
+Loot Exchange
+Banking
+$GOLD Staking
+Item Vault
+Summoning
+Raids
+NFT Marketplace
+Referrals
+Economy & Expansions
+Powered by GitBook
+On this page
+]:mt-5 whitespace-pre-wrap">
+Sell loot for $GOLD at the Loot Exchange.
+Users sell their Loot for $GOLD at the Loot Exchange. This is the main faucet of $GOLD in the game and where Heroes come to realise their hard work.
+Bankers take a cut on each transaction in the Loot Exchange.
+Pricing model
+Each loot item has a weighted value.=20
+Each day, the Merchant will emit a set amount of $GOLD between all loot sales. It calculates the value of each loot item by using a weighted moving average of the past 12 hours of sales data.=20
+This model aims to create a cap on daily emissions but promote game progression by creating a model where users earn more of the daily emissions by selling higher tier loot.=20
+This creates a dynamic where users must progress to end-game content to earn their share of the daily emissions. A user cannot sit at early game content earning common items and earning a large share of the emissions.
+Working example:
+Let's say there are 100 Broken Skulls (with a weighting of 1) and 50 Adventurer Books (with a weighting of 2) traded in during a 24-hour period. The Merchant would distribute 1,000,000 $GOLD* among all item sales in proportion to their weightings. In this example, each Broken Skull would be worth 5,000, and each Adventurer Book would be worth 10,000.
+The working example overly simplifies the reality of the algorithm, and there may be edge cases and simulation used to create the environment described (1,000,000 tokens emitted per day spread between all loot item sales).
+*example
+Previous
+Next
+Last updated
+5 days ago
